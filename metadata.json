@@ -1,0 +1,8 @@
+{
+  "name": "Kabur Sebentar",
+  "description": "A cinematic sanctuary for those who seek to escape the noise and rediscover peace through travel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
